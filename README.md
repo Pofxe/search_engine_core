@@ -24,7 +24,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/username/search_engine_core.git
+    git clone https://github.com/Pofxe/search_engine_core.git
     ```
 2. Соберите проект с помощью CMake:
     ```sh
